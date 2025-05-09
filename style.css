@@ -1,0 +1,17 @@
+/* Estilo do fundo da tela de login */
+body {
+    background-color: #f8f9fa;
+  }
+  
+  /* Imagens na galeria */
+  #galeria img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    transition: transform 0.2s;
+  }
+  
+  #galeria img:hover {
+    transform: scale(1.05);
+  }
